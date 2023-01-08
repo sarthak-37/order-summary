@@ -77,6 +77,10 @@ body{
     padding: 2px;
 }
 
+.change{
+    font-family: 'Red Hat Display', sans-serif;
+}
+
 .buttons{
     display: flex;
     flex-direction: column;
