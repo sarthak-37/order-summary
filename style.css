@@ -69,12 +69,12 @@ body{
     color: hsl(224, 23%, 55%);
 }
 
-i{
+.i{
     margin-right: 16px;
     color: hsl(224, 23%, 55%);
     border-radius: 50px;
     background-color: hsl(225, 100%, 94%);
-    padding: 10px;
+    padding: 2px;
 }
 
 .buttons{
